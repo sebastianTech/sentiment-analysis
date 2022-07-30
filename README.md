@@ -7,6 +7,7 @@ Jun 16 · 5 min read
 sebastian-obeta
 
 
+
 There is an important difference between language and most other kinds of things people think of when they do signal processing, data mining, etc. Most things are sort of random data gotten and someone trying to make sense out of it. Fundamentally, human language is not like massive data, exhaustive that someone is trying to process something useful. It is a system design specifically to convey the speaker’s or writer’s meaning. It is not just an environmental signal, but a deliberate form of communication. An amazing side of human language is that it is a complex system with an encoding format that a kid can quickly learn.
 
 
