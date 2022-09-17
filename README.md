@@ -6,6 +6,7 @@ Jun 16 · 5 min read
 
 sebastian-obeta
 
+
 There is an important difference between language and most other kinds of things people think of when they do signal processing, data mining, etc. Most things are sort of random data gotten and someone trying to make sense out of it. Fundamentally, human language is not like massive data, exhaustive that someone is trying to process something useful. It is a system design specifically to convey the speaker’s or writer’s meaning. It is not just an environmental signal, but a deliberate form of communication. An amazing side of human language is that it is a complex system with an encoding format that a kid can quickly learn.
 
 Sentimental analysis is a field that could be called motion mining. Companies and businesses have exploited in discovering people’s opinions, emotions, and feelings about a certain product or service. It could be through review sites, blogs, forums, or social media. Application of NLP helps a business to gain more insights on consumers, create a competitive edge necessary for business decisions and growth.
