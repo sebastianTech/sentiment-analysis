@@ -80,4 +80,4 @@ Image for post
 
 Conclusion
 
-If you have survey data with multiple choice entry, you can use pivot table, but for free form text like tweets, chats it is hard to process. You will need a machine learning system which is provided by Azure. Click and follow to get the next update on how to do word cloud on Excel. Next time you have a large amount of data to analyze, consider Azure Machine Learning.
+If you have survey data with multiple choice entry, you can use pivot table, but for free form text like tweets, chats it is hard to process. You will need a machine learning system which is provided by Azure. Click and follow to get the next update on how to do word cloud on Excel. Next time you have a large amount of data to analyze, consider Azure Machine Learning.Learning
